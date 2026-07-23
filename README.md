@@ -109,9 +109,12 @@ http://127.0.0.1:8000
 - Dark/Light mode
 - Export to DOCX
 
+## 🌐 LIVE DEMO
+https://quizgenai-i1om.onrender.com/
+
 ---
 
 ## 👨‍💻 Author
 
-Developed by **Deepak Jaish**
+Developed by **IBM TEAM  = TEAM **
 
